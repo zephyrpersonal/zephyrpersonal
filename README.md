@@ -2,7 +2,5 @@
 
 - Skill:      React, NodeJS, GraphQL
 
-- Job:        currently unemployed.
-
 
 
