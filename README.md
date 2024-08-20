@@ -1,6 +1,6 @@
 - Location:   Shanghai, China
 
-- Skill:      React, NodeJS, GraphQL
+- Skill:      Vue, React, NodeJS
 
 
 
